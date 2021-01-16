@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AnchorBooks</string>
+    <string name="listado_de_libros">Listado de Libros</string>
 </resources>

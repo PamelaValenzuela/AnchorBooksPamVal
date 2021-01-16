@@ -1,4 +1,6 @@
 package com.example.anchorbooks.view
 
-class DetailFragment {
+import androidx.fragment.app.Fragment
+
+class DetailFragment: Fragment() {
 }
